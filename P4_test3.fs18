@@ -1,0 +1,6 @@
+void
+let x = 11
+begin 
+	read ( x ) :
+	print ( x ) :
+end

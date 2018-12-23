@@ -1,0 +1,7 @@
+void
+let x = 11
+begin
+  x = 11 :
+  print ( x ) :
+end
+

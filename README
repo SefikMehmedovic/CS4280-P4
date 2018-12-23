@@ -1,0 +1,12 @@
+LOCAL OPTION
+------------------------------------------------------------------------
+CODE GENERATION
+------------------------------------------------------------------------
+Sefik Mehmedovic
+P4
+------------------------------------------------------------------------
+
+To compile project run 'make' and to remove all executables run 'make clean'
+To read from file use ./comp < filename.fs18 
+To run project without a file ./comp and keyboard input will appear
+

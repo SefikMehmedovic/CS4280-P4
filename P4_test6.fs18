@@ -1,0 +1,12 @@
+void
+begin
+	print ( 1 ) :
+	begin 
+	 print ( 1 ) :
+	 begin
+	 	print ( 1 ) :
+	end
+	print ( 1 ) :
+	end
+end
+

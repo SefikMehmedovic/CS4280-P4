@@ -1,0 +1,7 @@
+void
+let x = 1
+let y = 1
+let x = 1
+begin
+	print ( x ) :
+end
